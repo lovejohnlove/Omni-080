@@ -1,11 +1,6 @@
 # stories/Z/
 
-**Letter-Z shelf** — second room of the public story commons.
+Second room.
 
-Use this shelf for:
-- experimental pieces
-- alternate drafts
-- series tagged “Z”
-- anything that wants a door other than the main index
-
-Same invitation, same pen-name rules, same right to sign.
+No rules except do what's right.  
+As many names as you want.

@@ -2,27 +2,19 @@
 
 **Everybody gets the same opportunity.**
 
-Anyone may write a story, choose their own **pen name**, and **sign** the piece.  
-Stories are published here (public GitHub), and may be mirrored to Drive, Dropbox, and archive.org.
+Write a story. Use as many names as you want. Sign or don't.  
+Do what's right. That is the whole invitation.
 
-Technical ledgers, hashes, and verification work live in other repos. This shelf is for narrative only.
+There are no other rules. It is not anyone else's problem how you write.
 
-## How to contribute
-
-1. Write a short story (or poem, fragment, letter).
-2. Choose a pen name. It can be anything that is not someone else’s legal identity without consent.
-3. Sign at the end: pen name, optional date, optional one-line epigraph.
-4. Add a file under `stories/` or `stories/Z/` as markdown.
-5. Open a pull request, or send the file to whoever is pushing for the group.
-
-See **[INVITATION.md](INVITATION.md)** for the full open call.
+Technical ledgers live elsewhere. This place is for narrative.
 
 ## Shelves
 
 | Path | Role |
 |------|------|
-| [`stories/`](stories/) | Main public shelf |
-| [`stories/Z/`](stories/Z/) | Letter-Z shelf — overflow, experiments, second room |
-| [`INVITATION.md`](INVITATION.md) | Same rules for everyone |
+| [`stories/`](stories/) | Main shelf |
+| [`stories/Z/`](stories/Z/) | Second room |
+| [`INVITATION.md`](INVITATION.md) | The open call |
 
-Needle in a haystack by design. If you found this, you were looking — or writing.
+Needle in a haystack. If you found this, you were looking — or writing.

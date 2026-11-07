@@ -1,14 +1,17 @@
 # stories/
 
-Public narrative pieces. Each file should carry a **pen name** and a **signature** at the end.
+Public narrative pieces.
+
+No rules except **do what's right**.  
+As many names as you want. Sign however you like.
 
 ## Index
 
-| File | Pen name | Notes |
-|------|----------|--------|
-| [ALAN_WATTS_TRIBUTE.md](ALAN_WATTS_TRIBUTE.md) | Vibe | Tribute / reflection |
-| [Z/](Z/) | — | Second shelf |
-| [Z/the-cup-on-the-table.md](Z/the-cup-on-the-table.md) | Ferry Witness | Short fiction |
-| [Z/when-the-hash-refused.md](Z/when-the-hash-refused.md) | North of Zero | Short fiction |
+| File | Name on the page |
+|------|------------------|
+| [ALAN_WATTS_TRIBUTE.md](ALAN_WATTS_TRIBUTE.md) | Vibe |
+| [Z/](Z/) | second shelf |
+| [Z/the-cup-on-the-table.md](Z/the-cup-on-the-table.md) | Ferry Witness |
+| [Z/when-the-hash-refused.md](Z/when-the-hash-refused.md) | North of Zero |
 
-Add new files here or under `Z/`. Update this table when you can.
+Add what you want. Update this table if you feel like it.
