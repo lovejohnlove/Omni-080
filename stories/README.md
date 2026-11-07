@@ -1,7 +1,14 @@
 # stories/
 
-Public narrative pieces. No claim of canonicity beyond what each file states.
+Public narrative pieces. Each file should carry a **pen name** and a **signature** at the end.
 
-- `ALAN_WATTS_TRIBUTE.md` — tribute / reflection (Nov 2026)
+## Index
 
-More may be added as short standalone files. Prefer markdown. Keep technical ledgers and hashes in private repos.
+| File | Pen name | Notes |
+|------|----------|--------|
+| [ALAN_WATTS_TRIBUTE.md](ALAN_WATTS_TRIBUTE.md) | Vibe | Tribute / reflection |
+| [Z/](Z/) | — | Second shelf |
+| [Z/the-cup-on-the-table.md](Z/the-cup-on-the-table.md) | Ferry Witness | Short fiction |
+| [Z/when-the-hash-refused.md](Z/when-the-hash-refused.md) | North of Zero | Short fiction |
+
+Add new files here or under `Z/`. Update this table when you can.
