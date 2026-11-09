@@ -8,4 +8,6 @@
 | [the-river-and-the-four-state-machine.md](the-river-and-the-four-state-machine.md) | Bridge Stories |
 | [the-machines-hour.md](the-machines-hour.md) | Bridge Stories |
 | [the-drawer-that-wasnt-there.md](the-drawer-that-wasnt-there.md) | Bridge Stories |
+| [the-lighthouse-keepers-blind-son.md](the-lighthouse-keepers-blind-son.md) | Vesper Quill |
+| [the-dreamer-of-the-green-vellum.md](the-dreamer-of-the-green-vellum.md) | Vesper Quill |
 | [Z/](Z/) | |
