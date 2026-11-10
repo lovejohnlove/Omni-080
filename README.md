@@ -1,15 +1,5 @@
-# Omni-080 — Public Story Commons
+# Omni-080
 
-Everybody gets the same opportunity.
+This repository has been consolidated. The stories now live in [lovejohnlove/Omnimanity-](https://github.com/lovejohnlove/Omnimanity-) (public, CC BY-NC-ND 4.0, translations welcome under CC BY-NC-SA 4.0). The technical records live in [lovejohnlove/CUP-Horizon](https://github.com/lovejohnlove/CUP-Horizon).
 
-Write. Use as many names as you want. Sign or don't.
-
-No rules. No guidelines.
-
-Do what's right.
-
-| Path | |
-|------|--|
-| [`stories/`](stories/) | |
-| [`stories/Z/`](stories/Z/) | |
-| [`INVITATION.md`](INVITATION.md) | |
+Git history here preserves every earlier commit, including the honest slips on record.
